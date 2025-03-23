@@ -8,4 +8,4 @@
 
 ## 📌 Pinned Projects
 
-- 📦 [Warehouse Module for ERP System](https://github.com/amazur03/database-systems) - Web application built with Flask and Flask-Admin to manage the warehouse module of an ERP system.
+- 📦 [Warehouse Module of ERP System](https://github.com/amazur03/database-systems) - Web application built with Flask and Flask-Admin to manage the warehouse module of an ERP system.
