@@ -1,4 +1,4 @@
-# Hi 👋, I'm Adam Mazur
+## Hi 👋, I'm Adam Mazur
 
 #### Currently, I am in my third year of engineering studies at Wrocław University of Science and Technology, specializing in IT Automation Systems (ISA). In addition, I am an active member of the SNS Automatyk Student Scientific Club. I am working on projects based on microcontrollers and PLC.
 
@@ -6,6 +6,6 @@
 
 - 📫 How to reach me: **adam.mazur.mailbox@gmail.com**
 
-# 📌 Pinned Projects
+## 📌 Pinned Projects
 
-- 📦 [Warehouse Module for ERP System](https://github.com/amazur03/database-systems)
+- 📦 [Warehouse Module for ERP System](https://github.com/amazur03/database-systems) - Web application built with Flask and Flask-Admin to manage the warehouse module of an ERP system.
