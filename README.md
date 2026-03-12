@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Adam Mazur
 
-#### Currently, I am in my third year of engineering studies at Wrocław University of Science and Technology, specializing in IT Automation Systems (ISA). In addition, I am an active member of the SNS Automatyk Student Scientific Club. I am working on projects based on microcontrollers and PLC.
+#### I am an engineer in IT Automation Systems (ISA) from Wrocław University of Science and Technology and currently continuing my education in a Master's degree program. I am also an active member of the SNS Automatyk Student Scientific Club. I work on projects based on microcontrollers and PLCs.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amazur03&show_icons=true&locale=en&layout=compact)
 
